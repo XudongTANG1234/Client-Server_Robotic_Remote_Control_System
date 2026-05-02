@@ -1,5 +1,4 @@
 # Client-Server Robotic Remote Control System
-A client–server robotic remote control system where the server connects directly to the robot (UR20) and executes control commands, while the client provides a remote interface for real-time teleoperation.
 
 <p align="center">
   <a href="https://roboverseorg.github.io"><img src="https://img.shields.io/badge/project-page-brightgreen" alt="Project Page"></a>
@@ -10,6 +9,10 @@ A client–server robotic remote control system where the server connects direct
   <a href="https://discord.gg/6e2CPVnAD3"><img src="https://img.shields.io/discord/1356345436927168552?logo=discord&color=blue" alt="Discord"></a>
   <a href="docs/source/_static/wechat.jpg"><img src="https://img.shields.io/badge/wechat-QR_code-green" alt="WeChat"></a>
 </p>
+
+[![IsaacGym](https://img.shields.io/badge/IsaacGym-Preview4-b.svg)](https://developer.nvidia.com/isaac-gym)
+[![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://docs.python.org/3/whatsnew/3.10.html)
+[![Linux](https://img.shields.io/badge/platform-linux--64-orange.svg)](https://releases.ubuntu.com/24.04/)
 
 <div align="center">
   <img src="./media/ur20_onrobot3fg15_remote_control.webp" width="640px" alt="Remote Control Demo">

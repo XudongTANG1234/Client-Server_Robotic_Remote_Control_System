@@ -10,6 +10,6 @@
 
 <div align="center">
   <img src="./media/ur20_onrobot3fg15_remote_control.webp" width="640px" alt="Remote Control Demo">
-  <img src="./media/demo1.webp" width="300px" alt="Remote Control Demo">
-  <img src="./media/demo2.webp" width="300px" alt="Remote Control Demo">
+  <img src="./media/demo1.webp" width="310px" alt="Remote Control Demo">
+  <img src="./media/demo2.webp" width="310px" alt="Remote Control Demo">
 </div>

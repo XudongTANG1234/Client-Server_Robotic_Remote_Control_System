@@ -1,4 +1,6 @@
+<div align="center"> 
 # Client-Server Robotic Remote Control System
+</div>
 
 <p align="center">
   <a href="https://docs.python.org/3/whatsnew/3.10.html"><img src="https://img.shields.io/badge/Python-3.10-blue.svg" alt="Python 3.10"></a>
